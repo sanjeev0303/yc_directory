@@ -20,8 +20,8 @@
         "next-auth": "^5.0.0-beta.25",
         "next-sanity": "^9.8.47",
         "next-themes": "^0.4.4",
-        "react": "^18.3.0",
-        "react-dom": "^18.3.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
         "sanity": "^3.72.1",
         "sanity-plugin-markdown": "^5.0.0",
         "server-only": "^0.0.1",
@@ -44,9 +44,6 @@
         "typescript": "^5.7.3",
       },
     },
-  },
-  "overrides": {
-    "next": "^15.2.0-canary.33",
   },
   "packages": {
     "@actions/core": ["@actions/core@1.11.1", "", { "dependencies": { "@actions/exec": "^1.1.1", "@actions/http-client": "^2.0.1" } }, "sha512-hXJCSrkwfA46Vd9Z3q4cpEpHB1rL5NG04+/rbqW9d3+CSvtB1tYe8UTpAlixa1vj0m/ULglfEK2UKxMGxCxv5A=="],
